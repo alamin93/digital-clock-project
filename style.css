@@ -1,0 +1,26 @@
+.wrapper{
+    padding:  10px;
+    background-color: rgb(73, 71, 71);
+    width: 240px;
+    position: relative;
+}
+.digital_clock_card{
+    background-color: rgb(17, 17, 17);
+    padding: 4px 15px 5px 20px;
+}
+#time{
+    width: 140px;
+    float: left;
+}
+.clearSection{
+    clear: both;
+}
+#time ,small{
+   color: #fff;
+   margin: 10px;
+   display: inline-block;
+
+}
+small{
+    margin-top: 30px;
+}
